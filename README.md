@@ -10,14 +10,14 @@
 # Hi there
 print("HELLO WORLD")
 ```
-[바로가기](#)
+[바로가기](https://github.com/dlams/openSourceClass/tree/main/src)
 
 <br><br><br><!-- doc 폴더 설명 -->
 
 ### doc/
  > 오픈소스 프로젝트 제안서 파일   
 
-[바로가기](#)
+[바로가기](https://github.com/dlams/openSourceClass/tree/main/doc)
 
 <br><br><br><!-- 개인 sns 주소 -->
 
